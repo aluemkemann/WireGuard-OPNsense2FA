@@ -9,6 +9,8 @@ This approach combines OPNsense user passwords with OTP
 tokens through the captive function that was meant for securing
 wireless networks.
 
+!(https://github.com/aluemkemann/WireGuard-OPNsense2FA/blob/main/WireGuardVPN2FA.png)
+
 Hotspots allow clients to connect, but block any routing unless 
 the client authenticated, registered, accepted terms of use, 
 Data protection guidelines or some other BS. They often intercept
